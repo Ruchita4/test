@@ -4,7 +4,7 @@ public class Test_Runner {
 
 
 @Test
-	public static void Test() {
+	public void Test() {
 		System.out.println("hello everyone !!");
 
 	}
